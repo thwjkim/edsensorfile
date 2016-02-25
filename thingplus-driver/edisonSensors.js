@@ -119,14 +119,9 @@ function EdisonSensors() {
           } else if (sname === 'rotary') {
             var voltage = data * ADC / 1023;
             sensors[sname].value = Math.round(voltage * ROTARY_ANGLE_FULL_ANGLE / GROVE_VCC);
-          } else if (sname === 'soilMoisture') {
-            sensors[sname].value = data * 100.0 / SOILMOISTURE_MAX;
-            if (sensors[sname].value > 100) {
-              sensors[sname].value = 100;
-            }
-          } else {
+          } else if (sname === 'sound') {
             sensors[sname].value = data;
-          }
+          	}
           sensors[sname].time = _.now();
         });
       });
