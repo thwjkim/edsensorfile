@@ -1,0 +1,10 @@
+LICENSE
+*.sh
+*.pid
+log/
+scripts/
+store/
+thingplus-driver/logger_cfg.json
+thingplus-driver/node_modules/
+thingplus-driver/package.json
+thingplus-gateway/
