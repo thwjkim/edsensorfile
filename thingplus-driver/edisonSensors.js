@@ -110,8 +110,8 @@ function EdisonSensors() {
       });
 
     // series
-    //_.each(['sound', 'light', 'rotary', 'temperature'], // 'vibration'
-    _.each(['soilMoisture', 'light', 'rotary', 'temperature'], // 'vibration'
+    _.each(['sound', 'light', 'rotary', 'temperature'], // 'vibration'
+    //_.each(['soilMoisture', 'light', 'rotary', 'temperature'], // 'vibration'
       function (sname) {
         sensors[sname].instance.on('data', function(err, data) {
           if (sname === 'temperature') {
