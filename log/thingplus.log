@@ -1,0 +1,2244 @@
+[2016-02-26 12:57:07.790] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 12:57:07.799] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 12:57:07 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 12:57:07.800] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 12:57:37.746] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 12:57:48.412] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 12:57:48.417] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 12:57:53.296] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 12:58:07.806] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 12:58:37.758] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 12:58:37.808] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 12:58:37.809] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 12:58:37 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 12:58:37.810] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 12:58:48.422] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 12:58:48.427] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 12:58:53.303] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 12:59:37.759] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 12:59:37.820] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 12:59:48.433] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 12:59:48.442] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 12:59:53.309] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:00:07.823] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:00:07.824] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:00:07 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:00:07.825] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:00:37.762] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:00:48.449] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:00:48.454] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:00:53.311] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:01:07.831] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:01:37.770] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:01:37.833] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:01:37.835] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:01:37 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:01:37.835] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:01:48.458] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:01:48.464] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:01:53.312] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:02:37.772] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:02:37.840] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:02:48.472] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:02:48.478] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:02:53.318] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:03:07.841] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:03:07.843] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:03:07 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:03:07.844] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:03:37.774] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:03:48.491] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:03:48.496] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:03:53.325] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:04:07.851] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:04:37.781] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:04:37.853] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:04:37.855] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:04:37 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:04:37.855] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:04:41.638] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: getaddrinfo ESRCH] code: 'ESRCH', errno: 'ESRCH', syscall: 'getaddrinfo' }
+Error: getaddrinfo ESRCH
+    at errnoException (dns.js:17:11)
+    at Object.onanswer [as oncomplete] (dns.js:102:16)
+[2016-02-26 13:04:41.639] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[11] 
+ { [Error: getaddrinfo ESRCH] code: 'ESRCH', errno: 'ESRCH', syscall: 'getaddrinfo' }
+Error: getaddrinfo ESRCH
+    at errnoException (dns.js:17:11)
+    at Object.onanswer [as oncomplete] (dns.js:102:16)
+[2016-02-26 13:04:48.505] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:04:48.511] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:04:53.330] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:05:37.782] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:05:37.859] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:05:48.517] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:05:48.546] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:05:53.337] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:06:07.862] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:06:07.863] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:06:07 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:06:07.864] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:06:37.783] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:06:48.549] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:06:48.556] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:06:53.342] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:07:07.869] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:07:37.790] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:07:37.870] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:07:37.872] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:07:37 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:07:37.873] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:07:48.563] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:07:48.567] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:07:53.351] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:08:37.793] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:08:37.878] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:08:48.574] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:08:48.579] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:08:53.356] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:09:07.881] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:09:07.882] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:09:07 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:09:07.883] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:09:37.794] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:09:48.591] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:09:48.596] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:09:53.360] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:10:07.890] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:10:37.803] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:10:37.892] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:10:37.898] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:10:37 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:10:37.899] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:10:48.603] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:10:48.608] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:10:53.364] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:11:37.805] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:11:37.909] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:11:48.619] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:11:48.629] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:11:53.370] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:12:07.917] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:12:07.919] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:12:07 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:12:07.919] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:12:37.806] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:12:48.635] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:12:48.639] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:12:53.372] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:13:07.935] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:13:37.823] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:13:37.936] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:13:37.937] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:13:37 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:13:37.938] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:13:48.644] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:13:48.649] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:13:53.377] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:14:37.824] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:14:37.943] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:14:48.656] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:14:48.662] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:14:53.381] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:15:07.945] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:15:07.947] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:15:07 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:15:07.949] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:15:37.826] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:15:48.677] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:15:48.705] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:15:53.387] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:16:07.953] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:16:37.832] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:16:37.954] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:16:37.956] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:16:37 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:16:37.957] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:16:48.717] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:16:48.724] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:16:53.392] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:17:37.834] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:17:37.963] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:17:48.732] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:17:48.737] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:17:53.397] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:18:07.965] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:18:07.967] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:18:07 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:18:07.968] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:18:37.837] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:18:48.743] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:18:48.748] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:18:53.402] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:19:07.973] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:19:37.844] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:19:37.975] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:19:37.977] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:19:37 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:19:37.978] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:19:48.752] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:19:48.757] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:19:53.407] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:20:37.845] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:20:37.983] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:20:48.767] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:20:48.772] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:20:53.413] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:21:07.985] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:21:07.987] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:21:07 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:21:07.988] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:21:37.846] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:21:48.777] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:21:48.782] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:21:53.418] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:22:07.993] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:22:10.663] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: getaddrinfo ESRCH] code: 'ESRCH', errno: 'ESRCH', syscall: 'getaddrinfo' }
+Error: getaddrinfo ESRCH
+    at errnoException (dns.js:17:11)
+    at Object.onanswer [as oncomplete] (dns.js:102:16)
+[2016-02-26 13:22:10.664] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[12] 
+ { [Error: getaddrinfo ESRCH] code: 'ESRCH', errno: 'ESRCH', syscall: 'getaddrinfo' }
+Error: getaddrinfo ESRCH
+    at errnoException (dns.js:17:11)
+    at Object.onanswer [as oncomplete] (dns.js:102:16)
+[2016-02-26 13:22:37.856] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:22:37.995] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:22:37.997] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:22:37 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:22:37.998] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:22:48.789] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:22:48.794] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:22:53.419] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:23:37.861] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:23:38.001] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:23:48.802] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:23:48.807] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:23:53.422] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:24:08.003] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:24:08.005] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:24:08 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:24:08.005] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:24:37.862] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:24:48.816] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:24:48.850] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:24:53.427] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:25:08.010] [INFO] MQTT - MH CREATE secure(yes) mqtt.sp1.sktiot.com:8883
+[2016-02-26 13:25:37.870] [INFO] Server - [Server/init] last synced time from CONFIG Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:25:38.012] [WARN] MQTT - [mqtt.init] MH.ackTimer out : try disconnect
+[2016-02-26 13:25:38.013] [INFO] MQTT - [mqtt] system time = Fri Feb 26 2016 13:25:38 GMT+0000 (UTC), last synced time from CONFIG = Fri Feb 26 2016 09:56:17 GMT+0000 (UTC)
+[2016-02-26 13:25:38.015] [WARN] MQTT - [mqtt] MQTT connection is closed undefined
+[2016-02-26 13:25:48.857] [INFO] Sensors - [02008603c8a5] status { status: 'err',
+  duration: -1,
+  sensors: 
+   [ { id: '02008603c8a5-0-rotary', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-temp', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-touch', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-light', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-button', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-sound', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-buzz', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-led', status: 'on', duration: 90 },
+     { id: '02008603c8a5-0-relay', status: 'on', duration: 90 } ] }
+[2016-02-26 13:25:48.862] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:25:53.433] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                [32m[2016-02-26 13:28:15.320] [INFO] Sensors - [39mStart to load SensorJS Plugin Packages .... [ 'sensorjs-jsonrpc' ]
+[32m[2016-02-26 13:28:15.516] [INFO] Sensor - [39m[sensor/index.js] updated DRIVER_CFG[jsonrpcSensor] [ 'jsonrpcNumber',
+  'jsonrpcString',
+  'jsonrpcTemp',
+  'jsonrpcHumi',
+  'jsonrpcLight',
+  'jsonrpcNoise',
+  'jsonrpcDi',
+  'jsonrpcMotion',
+  'jsonrpcDoor',
+  'jsonrpcCo2',
+  'jsonrpcCo',
+  'jsonrpcVoc',
+  'jsonrpcPower',
+  'jsonrpcDust',
+  'jsonrpcCount',
+  'jsonrpcCountEvent',
+  'jsonrpcVoltage',
+  'jsonrpcCurrent',
+  'jsonrpcWeight',
+  'jsonrpcColor',
+  'jsonrpcVibration',
+  'jsonrpcSpeed',
+  'jsonrpcAccelerometer',
+  'jsonrpcPressure',
+  'jsonrpcRotaryAngle',
+  'jsonrpcPercent',
+  'jsonrpcStepCount',
+  'jsonrpcSleepStage',
+  'jsonrpcBatteryGauge',
+  'jsonrpcTag',
+  'jsonrpcReader' ]
+[32m[2016-02-26 13:28:15.524] [INFO] Sensor - [39m[sensor/index.js] updated DRIVER_CFG[jsonrpcActuator] [ 'jsonrpcLed',
+  'jsonrpcDo',
+  'jsonrpcTempCtrl',
+  'jsonrpcElectricFan',
+  'jsonrpcAirConditioner',
+  'jsonrpcTelevision',
+  'jsonrpcRGBLed',
+  'jsonrpc7colorRGBLed',
+  'jsonrpcBuzzer',
+  'jsonrpcLcd' ]
+[36m[2016-02-26 13:28:15.527] [DEBUG] Sensor - [39m[sensor/index.js] updated DRIVER_CFG { dht: [ 'dht11', 'dht22' ],
+  digitalLight: [ 'TSL2561', 'BH1750' ],
+  digitalCO2: [ 'X100' ],
+  digitalHumidity: [ 'HTU21D' ],
+  magneticSwitch: [ 'normallyClose', 'normallyOpen' ],
+  motionDetector: [ 'passiveInfrared' ],
+  jsonrpcSensor: 
+   [ 'jsonrpcNumber',
+     'jsonrpcString',
+     'jsonrpcTemp',
+     'jsonrpcHumi',
+     'jsonrpcLight',
+     'jsonrpcNoise',
+     'jsonrpcDi',
+     'jsonrpcMotion',
+     'jsonrpcDoor',
+     'jsonrpcCo2',
+     'jsonrpcCo',
+     'jsonrpcVoc',
+     'jsonrpcPower',
+     'jsonrpcDust',
+     'jsonrpcCount',
+     'jsonrpcCountEvent',
+     'jsonrpcVoltage',
+     'jsonrpcCurrent',
+     'jsonrpcWeight',
+     'jsonrpcColor',
+     'jsonrpcVibration',
+     'jsonrpcSpeed',
+     'jsonrpcAccelerometer',
+     'jsonrpcPressure',
+     'jsonrpcRotaryAngle',
+     'jsonrpcPercent',
+     'jsonrpcStepCount',
+     'jsonrpcSleepStage',
+     'jsonrpcBatteryGauge',
+     'jsonrpcTag',
+     'jsonrpcReader' ],
+  jsonrpcActuator: 
+   [ 'jsonrpcLed',
+     'jsonrpcDo',
+     'jsonrpcTempCtrl',
+     'jsonrpcElectricFan',
+     'jsonrpcAirConditioner',
+     'jsonrpcTelevision',
+     'jsonrpcRGBLed',
+     'jsonrpc7colorRGBLed',
+     'jsonrpcBuzzer',
+     'jsonrpcLcd' ] }
+[32m[2016-02-26 13:28:15.543] [INFO] Sensors - [39mLoaded SensorJS Plugin Packages { dht: [ 'dht11', 'dht22' ],
+  digitalLight: [ 'TSL2561', 'BH1750' ],
+  digitalCO2: [ 'X100' ],
+  digitalHumidity: [ 'HTU21D' ],
+  magneticSwitch: [ 'normallyClose', 'normallyOpen' ],
+  motionDetector: [ 'passiveInfrared' ],
+  jsonrpcSensor: 
+   [ 'jsonrpcNumber',
+     'jsonrpcString',
+     'jsonrpcTemp',
+     'jsonrpcHumi',
+     'jsonrpcLight',
+     'jsonrpcNoise',
+     'jsonrpcDi',
+     'jsonrpcMotion',
+     'jsonrpcDoor',
+     'jsonrpcCo2',
+     'jsonrpcCo',
+     'jsonrpcVoc',
+     'jsonrpcPower',
+     'jsonrpcDust',
+     'jsonrpcCount',
+     'jsonrpcCountEvent',
+     'jsonrpcVoltage',
+     'jsonrpcCurrent',
+     'jsonrpcWeight',
+     'jsonrpcColor',
+     'jsonrpcVibration',
+     'jsonrpcSpeed',
+     'jsonrpcAccelerometer',
+     'jsonrpcPressure',
+     'jsonrpcRotaryAngle',
+     'jsonrpcPercent',
+     'jsonrpcStepCount',
+     'jsonrpcSleepStage',
+     'jsonrpcBatteryGauge',
+     'jsonrpcTag',
+     'jsonrpcReader' ],
+  jsonrpcActuator: 
+   [ 'jsonrpcLed',
+     'jsonrpcDo',
+     'jsonrpcTempCtrl',
+     'jsonrpcElectricFan',
+     'jsonrpcAirConditioner',
+     'jsonrpcTelevision',
+     'jsonrpcRGBLed',
+     'jsonrpc7colorRGBLed',
+     'jsonrpcBuzzer',
+     'jsonrpcLcd' ] }
+[32m[2016-02-26 13:28:15.569] [INFO] Sensors - [39m.... Loading SensorJS Plugin Packages is done.
+
+[2016-02-26 13:28:16.313] [INFO] Main - <<<<<<<< Starting Gateway [edison] >>>>>>>>
+[2016-02-26 13:28:16.464] [WARN] Main - MODULES_NOT_SUPPORTED - memwatch
+[2016-02-26 13:28:16.622] [WARN] Main - MODULES_NOT_SUPPORTED - rgbLed
+[2016-02-26 13:28:16.629] [INFO] Main - 1. Get the Gateway ID
+[2016-02-26 13:28:16.676] [INFO] Main - [UDP Socket] discovery BOUND port=[28282]
+[2016-02-26 13:28:16.722] [INFO] Main - 1.1 Gateway ID from mac =  02008603c8a5
+[2016-02-26 13:28:16.724] [INFO] Main - 2. Store init for saving and loading sensor values to preserve the data which are not uploaded yet
+[2016-02-26 13:28:16.854] [INFO] Store - Memory 79.70583448612581%[802410496/1006714880] limit: 0%
+[2016-02-26 13:28:16.870] [INFO] Main - 3. MQTT init - establish mqtt connection (with TLS options if mqtts)
+[2016-02-26 13:28:16.871] [INFO] Main - 3.1 MQTT Server Config -  mqtts mqtt.sp1.sktiot.com 8883
+[2016-02-26 13:28:16.871] [INFO] Main - 3.2 MQTTs Connection with TLS options { caPath: '/opt/tp/thingplus-gateway/device/ssl/ca-cert.pem',
+  rejectUnauthorized: true }
+[2016-02-26 13:28:16.873] [INFO] Main - 3.3 MQTTs Authentication with cert { caPath: '/opt/tp/thingplus-gateway/device/ssl/ca-cert.pem',
+  rejectUnauthorized: true,
+  pfxPath: '/opt/tp/config/cert.p12',
+  passphrase: '02008603c8a5' }
+[2016-02-26 13:28:16.881] [INFO] MQTT - [mqtt-init] MQTT connection options { clientId: '02008603c8a5',
+  keepalive: 120,
+  clean: true,
+  autopuback: false,
+  logger: 
+   { category: 'MQTT',
+     _events: { log: [Function] },
+     level: { level: 20000, levelStr: 'INFO' } },
+  will: 
+   { topic: 'v/a/g/02008603c8a5/mqtt/status',
+     payload: 'err',
+     retain: true } }
+[2016-02-26 13:28:17.039] [ERROR] Main - 3.4 MQTT Connection error with Certificate (APIKEY is missing or Gateway pfx/p12 file is missing)
+ Error: ENOENT, no such file or directory '/opt/tp/config/cert.p12'
+    at Object.fs.openSync (fs.js:449:18)
+    at Object.fs.readFileSync (fs.js:286:15)
+    at Object.module.exports.createSecureClient (/opt/tp/thingplus-gateway/device/node_modules/mqtt/lib/mqtt.js.jx:88:39)
+    at g (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:17272)
+    at new u (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:18368)
+    at Object.a.exports.init (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:13830)
+    at e.series.b.password (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:4917)
+    at /opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:609:21
+    at /opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:248:17
+    at iterate (/opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:148:13)
+[2016-02-26 13:28:17.040] [INFO] Main - 4. Server init
+[2016-02-26 13:28:17.044] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:28:17.049] [WARN] Server - [Server/init] time: NOT IN SYNC
+[2016-02-26 13:28:17.348] [INFO] Store - [Store/checkResourceLimit] Filesystem 414773248/1508704256 > 10%
+[2016-02-26 13:28:17.526] [INFO] Server - [mqtt] - DISCONNECTED
+[2016-02-26 13:28:17.527] [INFO] Server - [service] - DISCONNECTED
+[2016-02-26 13:28:17.528] [WARN] Server - [Server/init/statusUpdate] Error with Server.statusUpdate
+ [Error: Server is not connected]
+Error: Server is not connected
+    at Error (<anonymous>)
+    at /opt/tp/thingplus-gateway/device/app.min.js.jx:9:20507
+    at forOwn (/opt/tp/thingplus-gateway/device/node_modules/lodash/dist/lodash.js.jx:2104:15)
+    at Function.forEach (/opt/tp/thingplus-gateway/device/node_modules/lodash/dist/lodash.js.jx:3301:9)
+    at /opt/tp/thingplus-gateway/device/app.min.js.jx:9:20345
+    at /opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:156:25
+    at /opt/tp/thingplus-gateway/device/app.min.js.jx:9:20301
+    at Request._callback (/opt/tp/thingplus-gateway/device/app.min.js.jx:9:17988)
+    at self.callback (/opt/tp/thingplus-gateway/device/node_modules/request/index.js.jx:131:22)
+    at Request.emit (events.js:82:17)
+[2016-02-26 13:28:17.535] [INFO] Main - 4.1 Server init is done 
+[2016-02-26 13:28:17.536] [INFO] Main - 5. Gateway init
+[2016-02-26 13:28:17.570] [INFO] Gateway - [Gateway.init] board= { macaddress: '02008603c8a5' }
+[2016-02-26 13:28:17.728] [ERROR] Gateway - [Gateway/init] Error with getting the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:28:17.731] [INFO] Main - 5.1 Gateway init is done 
+[2016-02-26 13:28:17.732] [INFO] Main - 6. Sensor init
+[2016-02-26 13:28:17.734] [WARN] Sensors - ... Start gathering data - REPORT_INTERVAL(60000) ...
+[2016-02-26 13:28:17.735] [INFO] Main - 6.1 Sensor init is done 
+[2016-02-26 13:28:17.736] [WARN] Main - <<<<<<<< Init done: NO UI mode >>>>>>>>
+[2016-02-26 13:28:17.854] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:28:17.856] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[1] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:28:19.005] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:28:19.006] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[2] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:28:21.135] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:28:21.137] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[3] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:28:25.288] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:28:25.289] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[4] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:28:33.408] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:28:33.410] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[5] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:28:49.598] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:28:49.601] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[6] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:29:17.050] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:29:21.779] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:29:21.781] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[7] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:29:27.742] [INFO] Sensors - [02008603c8a5] status { status: 'err', duration: -1, sensors: [] }
+[2016-02-26 13:29:27.747] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:29:29.306] [INFO] Main - SIGTERM
+[32m[2016-02-26 13:30:08.189] [INFO] Sensors - [39mStart to load SensorJS Plugin Packages .... [ 'sensorjs-jsonrpc' ]
+[32m[2016-02-26 13:30:08.357] [INFO] Sensor - [39m[sensor/index.js] updated DRIVER_CFG[jsonrpcSensor] [ 'jsonrpcNumber',
+  'jsonrpcString',
+  'jsonrpcTemp',
+  'jsonrpcHumi',
+  'jsonrpcLight',
+  'jsonrpcNoise',
+  'jsonrpcDi',
+  'jsonrpcMotion',
+  'jsonrpcDoor',
+  'jsonrpcCo2',
+  'jsonrpcCo',
+  'jsonrpcVoc',
+  'jsonrpcPower',
+  'jsonrpcDust',
+  'jsonrpcCount',
+  'jsonrpcCountEvent',
+  'jsonrpcVoltage',
+  'jsonrpcCurrent',
+  'jsonrpcWeight',
+  'jsonrpcColor',
+  'jsonrpcVibration',
+  'jsonrpcSpeed',
+  'jsonrpcAccelerometer',
+  'jsonrpcPressure',
+  'jsonrpcRotaryAngle',
+  'jsonrpcPercent',
+  'jsonrpcStepCount',
+  'jsonrpcSleepStage',
+  'jsonrpcBatteryGauge',
+  'jsonrpcTag',
+  'jsonrpcReader' ]
+[32m[2016-02-26 13:30:08.365] [INFO] Sensor - [39m[sensor/index.js] updated DRIVER_CFG[jsonrpcActuator] [ 'jsonrpcLed',
+  'jsonrpcDo',
+  'jsonrpcTempCtrl',
+  'jsonrpcElectricFan',
+  'jsonrpcAirConditioner',
+  'jsonrpcTelevision',
+  'jsonrpcRGBLed',
+  'jsonrpc7colorRGBLed',
+  'jsonrpcBuzzer',
+  'jsonrpcLcd' ]
+[36m[2016-02-26 13:30:08.369] [DEBUG] Sensor - [39m[sensor/index.js] updated DRIVER_CFG { dht: [ 'dht11', 'dht22' ],
+  digitalLight: [ 'TSL2561', 'BH1750' ],
+  digitalCO2: [ 'X100' ],
+  digitalHumidity: [ 'HTU21D' ],
+  magneticSwitch: [ 'normallyClose', 'normallyOpen' ],
+  motionDetector: [ 'passiveInfrared' ],
+  jsonrpcSensor: 
+   [ 'jsonrpcNumber',
+     'jsonrpcString',
+     'jsonrpcTemp',
+     'jsonrpcHumi',
+     'jsonrpcLight',
+     'jsonrpcNoise',
+     'jsonrpcDi',
+     'jsonrpcMotion',
+     'jsonrpcDoor',
+     'jsonrpcCo2',
+     'jsonrpcCo',
+     'jsonrpcVoc',
+     'jsonrpcPower',
+     'jsonrpcDust',
+     'jsonrpcCount',
+     'jsonrpcCountEvent',
+     'jsonrpcVoltage',
+     'jsonrpcCurrent',
+     'jsonrpcWeight',
+     'jsonrpcColor',
+     'jsonrpcVibration',
+     'jsonrpcSpeed',
+     'jsonrpcAccelerometer',
+     'jsonrpcPressure',
+     'jsonrpcRotaryAngle',
+     'jsonrpcPercent',
+     'jsonrpcStepCount',
+     'jsonrpcSleepStage',
+     'jsonrpcBatteryGauge',
+     'jsonrpcTag',
+     'jsonrpcReader' ],
+  jsonrpcActuator: 
+   [ 'jsonrpcLed',
+     'jsonrpcDo',
+     'jsonrpcTempCtrl',
+     'jsonrpcElectricFan',
+     'jsonrpcAirConditioner',
+     'jsonrpcTelevision',
+     'jsonrpcRGBLed',
+     'jsonrpc7colorRGBLed',
+     'jsonrpcBuzzer',
+     'jsonrpcLcd' ] }
+[32m[2016-02-26 13:30:08.384] [INFO] Sensors - [39mLoaded SensorJS Plugin Packages { dht: [ 'dht11', 'dht22' ],
+  digitalLight: [ 'TSL2561', 'BH1750' ],
+  digitalCO2: [ 'X100' ],
+  digitalHumidity: [ 'HTU21D' ],
+  magneticSwitch: [ 'normallyClose', 'normallyOpen' ],
+  motionDetector: [ 'passiveInfrared' ],
+  jsonrpcSensor: 
+   [ 'jsonrpcNumber',
+     'jsonrpcString',
+     'jsonrpcTemp',
+     'jsonrpcHumi',
+     'jsonrpcLight',
+     'jsonrpcNoise',
+     'jsonrpcDi',
+     'jsonrpcMotion',
+     'jsonrpcDoor',
+     'jsonrpcCo2',
+     'jsonrpcCo',
+     'jsonrpcVoc',
+     'jsonrpcPower',
+     'jsonrpcDust',
+     'jsonrpcCount',
+     'jsonrpcCountEvent',
+     'jsonrpcVoltage',
+     'jsonrpcCurrent',
+     'jsonrpcWeight',
+     'jsonrpcColor',
+     'jsonrpcVibration',
+     'jsonrpcSpeed',
+     'jsonrpcAccelerometer',
+     'jsonrpcPressure',
+     'jsonrpcRotaryAngle',
+     'jsonrpcPercent',
+     'jsonrpcStepCount',
+     'jsonrpcSleepStage',
+     'jsonrpcBatteryGauge',
+     'jsonrpcTag',
+     'jsonrpcReader' ],
+  jsonrpcActuator: 
+   [ 'jsonrpcLed',
+     'jsonrpcDo',
+     'jsonrpcTempCtrl',
+     'jsonrpcElectricFan',
+     'jsonrpcAirConditioner',
+     'jsonrpcTelevision',
+     'jsonrpcRGBLed',
+     'jsonrpc7colorRGBLed',
+     'jsonrpcBuzzer',
+     'jsonrpcLcd' ] }
+[32m[2016-02-26 13:30:08.397] [INFO] Sensors - [39m.... Loading SensorJS Plugin Packages is done.
+
+[2016-02-26 13:30:09.179] [INFO] Main - <<<<<<<< Starting Gateway [edison] >>>>>>>>
+[2016-02-26 13:30:09.396] [WARN] Main - MODULES_NOT_SUPPORTED - memwatch
+[2016-02-26 13:30:09.634] [WARN] Main - MODULES_NOT_SUPPORTED - rgbLed
+[2016-02-26 13:30:09.642] [INFO] Main - 1. Get the Gateway ID
+[2016-02-26 13:30:09.686] [INFO] Main - [UDP Socket] discovery BOUND port=[28282]
+[2016-02-26 13:30:09.739] [INFO] Main - 1.1 Gateway ID from mac =  02008603c8a5
+[2016-02-26 13:30:09.742] [INFO] Main - 2. Store init for saving and loading sensor values to preserve the data which are not uploaded yet
+[2016-02-26 13:30:09.823] [INFO] Store - Memory 77.69387256896411%[782155776/1006714880] limit: 0%
+[2016-02-26 13:30:09.840] [INFO] Main - 3. MQTT init - establish mqtt connection (with TLS options if mqtts)
+[2016-02-26 13:30:09.840] [INFO] Main - 3.1 MQTT Server Config -  mqtts mqtt.sp1.sktiot.com 8883
+[2016-02-26 13:30:09.841] [INFO] Main - 3.2 MQTTs Connection with TLS options { caPath: '/opt/tp/thingplus-gateway/device/ssl/ca-cert.pem',
+  rejectUnauthorized: true }
+[2016-02-26 13:30:09.842] [INFO] Main - 3.3 MQTTs Authentication with cert { caPath: '/opt/tp/thingplus-gateway/device/ssl/ca-cert.pem',
+  rejectUnauthorized: true,
+  pfxPath: '/opt/tp/config/cert.p12',
+  passphrase: '02008603c8a5' }
+[2016-02-26 13:30:09.854] [INFO] MQTT - [mqtt-init] MQTT connection options { clientId: '02008603c8a5',
+  keepalive: 120,
+  clean: true,
+  autopuback: false,
+  logger: 
+   { category: 'MQTT',
+     _events: { log: [Function] },
+     level: { level: 20000, levelStr: 'INFO' } },
+  will: 
+   { topic: 'v/a/g/02008603c8a5/mqtt/status',
+     payload: 'err',
+     retain: true } }
+[2016-02-26 13:30:09.889] [ERROR] Main - 3.4 MQTT Connection error with Certificate (APIKEY is missing or Gateway pfx/p12 file is missing)
+ Error: ENOENT, no such file or directory '/opt/tp/config/cert.p12'
+    at Object.fs.openSync (fs.js:449:18)
+    at Object.fs.readFileSync (fs.js:286:15)
+    at Object.module.exports.createSecureClient (/opt/tp/thingplus-gateway/device/node_modules/mqtt/lib/mqtt.js.jx:88:39)
+    at g (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:17272)
+    at new u (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:18368)
+    at Object.a.exports.init (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:13830)
+    at e.series.b.password (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:4917)
+    at /opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:609:21
+    at /opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:248:17
+    at iterate (/opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:148:13)
+[2016-02-26 13:30:09.891] [INFO] Main - 4. Server init
+[2016-02-26 13:30:09.894] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:30:09.899] [WARN] Server - [Server/init] time: NOT IN SYNC
+[2016-02-26 13:30:10.150] [INFO] Store - [Store/checkResourceLimit] Filesystem 414769152/1508704256 > 10%
+[2016-02-26 13:30:10.326] [INFO] Server - [mqtt] - DISCONNECTED
+[2016-02-26 13:30:10.327] [INFO] Server - [service] - DISCONNECTED
+[2016-02-26 13:30:10.329] [WARN] Server - [Server/init/statusUpdate] Error with Server.statusUpdate
+ [Error: Server is not connected]
+Error: Server is not connected
+    at Error (<anonymous>)
+    at /opt/tp/thingplus-gateway/device/app.min.js.jx:9:20507
+    at forOwn (/opt/tp/thingplus-gateway/device/node_modules/lodash/dist/lodash.js.jx:2104:15)
+    at Function.forEach (/opt/tp/thingplus-gateway/device/node_modules/lodash/dist/lodash.js.jx:3301:9)
+    at /opt/tp/thingplus-gateway/device/app.min.js.jx:9:20345
+    at /opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:156:25
+    at /opt/tp/thingplus-gateway/device/app.min.js.jx:9:20301
+    at Request._callback (/opt/tp/thingplus-gateway/device/app.min.js.jx:9:17988)
+    at self.callback (/opt/tp/thingplus-gateway/device/node_modules/request/index.js.jx:131:22)
+    at Request.emit (events.js:82:17)
+[2016-02-26 13:30:10.338] [INFO] Main - 4.1 Server init is done 
+[2016-02-26 13:30:10.339] [INFO] Main - 5. Gateway init
+[2016-02-26 13:30:10.390] [INFO] Gateway - [Gateway.init] board= { macaddress: '02008603c8a5' }
+[2016-02-26 13:30:10.612] [ERROR] Gateway - [Gateway/init] Error with getting the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:30:10.614] [INFO] Main - 5.1 Gateway init is done 
+[2016-02-26 13:30:10.616] [INFO] Main - 6. Sensor init
+[2016-02-26 13:30:10.618] [WARN] Sensors - ... Start gathering data - REPORT_INTERVAL(60000) ...
+[2016-02-26 13:30:10.619] [INFO] Main - 6.1 Sensor init is done 
+[2016-02-26 13:30:10.620] [WARN] Main - <<<<<<<< Init done: NO UI mode >>>>>>>>
+[2016-02-26 13:30:10.857] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:30:10.860] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[1] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:30:11.981] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:30:11.982] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[2] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:30:14.164] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:30:14.165] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[3] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:30:18.288] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:30:18.289] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[4] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:30:26.546] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:30:26.549] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[5] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:30:42.712] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:30:42.713] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[6] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:31:09.901] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:31:14.831] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:31:14.833] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[7] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:31:20.630] [INFO] Sensors - [02008603c8a5] status { status: 'err', duration: -1, sensors: [] }
+[2016-02-26 13:31:20.635] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:31:25.629] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:32:09.904] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:32:18.946] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:32:18.948] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[8] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:32:20.636] [INFO] Sensors - [02008603c8a5] status { status: 'err', duration: -1, sensors: [] }
+[2016-02-26 13:32:20.638] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:32:25.634] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[32m[2016-02-26 13:32:45.969] [INFO] Sensors - [39mStart to load SensorJS Plugin Packages .... [ 'sensorjs-jsonrpc' ]
+[32m[2016-02-26 13:32:46.166] [INFO] Sensor - [39m[sensor/index.js] updated DRIVER_CFG[jsonrpcSensor] [ 'jsonrpcNumber',
+  'jsonrpcString',
+  'jsonrpcTemp',
+  'jsonrpcHumi',
+  'jsonrpcLight',
+  'jsonrpcNoise',
+  'jsonrpcDi',
+  'jsonrpcMotion',
+  'jsonrpcDoor',
+  'jsonrpcCo2',
+  'jsonrpcCo',
+  'jsonrpcVoc',
+  'jsonrpcPower',
+  'jsonrpcDust',
+  'jsonrpcCount',
+  'jsonrpcCountEvent',
+  'jsonrpcVoltage',
+  'jsonrpcCurrent',
+  'jsonrpcWeight',
+  'jsonrpcColor',
+  'jsonrpcVibration',
+  'jsonrpcSpeed',
+  'jsonrpcAccelerometer',
+  'jsonrpcPressure',
+  'jsonrpcRotaryAngle',
+  'jsonrpcPercent',
+  'jsonrpcStepCount',
+  'jsonrpcSleepStage',
+  'jsonrpcBatteryGauge',
+  'jsonrpcTag',
+  'jsonrpcReader' ]
+[32m[2016-02-26 13:32:46.174] [INFO] Sensor - [39m[sensor/index.js] updated DRIVER_CFG[jsonrpcActuator] [ 'jsonrpcLed',
+  'jsonrpcDo',
+  'jsonrpcTempCtrl',
+  'jsonrpcElectricFan',
+  'jsonrpcAirConditioner',
+  'jsonrpcTelevision',
+  'jsonrpcRGBLed',
+  'jsonrpc7colorRGBLed',
+  'jsonrpcBuzzer',
+  'jsonrpcLcd' ]
+[36m[2016-02-26 13:32:46.177] [DEBUG] Sensor - [39m[sensor/index.js] updated DRIVER_CFG { dht: [ 'dht11', 'dht22' ],
+  digitalLight: [ 'TSL2561', 'BH1750' ],
+  digitalCO2: [ 'X100' ],
+  digitalHumidity: [ 'HTU21D' ],
+  magneticSwitch: [ 'normallyClose', 'normallyOpen' ],
+  motionDetector: [ 'passiveInfrared' ],
+  jsonrpcSensor: 
+   [ 'jsonrpcNumber',
+     'jsonrpcString',
+     'jsonrpcTemp',
+     'jsonrpcHumi',
+     'jsonrpcLight',
+     'jsonrpcNoise',
+     'jsonrpcDi',
+     'jsonrpcMotion',
+     'jsonrpcDoor',
+     'jsonrpcCo2',
+     'jsonrpcCo',
+     'jsonrpcVoc',
+     'jsonrpcPower',
+     'jsonrpcDust',
+     'jsonrpcCount',
+     'jsonrpcCountEvent',
+     'jsonrpcVoltage',
+     'jsonrpcCurrent',
+     'jsonrpcWeight',
+     'jsonrpcColor',
+     'jsonrpcVibration',
+     'jsonrpcSpeed',
+     'jsonrpcAccelerometer',
+     'jsonrpcPressure',
+     'jsonrpcRotaryAngle',
+     'jsonrpcPercent',
+     'jsonrpcStepCount',
+     'jsonrpcSleepStage',
+     'jsonrpcBatteryGauge',
+     'jsonrpcTag',
+     'jsonrpcReader' ],
+  jsonrpcActuator: 
+   [ 'jsonrpcLed',
+     'jsonrpcDo',
+     'jsonrpcTempCtrl',
+     'jsonrpcElectricFan',
+     'jsonrpcAirConditioner',
+     'jsonrpcTelevision',
+     'jsonrpcRGBLed',
+     'jsonrpc7colorRGBLed',
+     'jsonrpcBuzzer',
+     'jsonrpcLcd' ] }
+[32m[2016-02-26 13:32:46.202] [INFO] Sensors - [39mLoaded SensorJS Plugin Packages { dht: [ 'dht11', 'dht22' ],
+  digitalLight: [ 'TSL2561', 'BH1750' ],
+  digitalCO2: [ 'X100' ],
+  digitalHumidity: [ 'HTU21D' ],
+  magneticSwitch: [ 'normallyClose', 'normallyOpen' ],
+  motionDetector: [ 'passiveInfrared' ],
+  jsonrpcSensor: 
+   [ 'jsonrpcNumber',
+     'jsonrpcString',
+     'jsonrpcTemp',
+     'jsonrpcHumi',
+     'jsonrpcLight',
+     'jsonrpcNoise',
+     'jsonrpcDi',
+     'jsonrpcMotion',
+     'jsonrpcDoor',
+     'jsonrpcCo2',
+     'jsonrpcCo',
+     'jsonrpcVoc',
+     'jsonrpcPower',
+     'jsonrpcDust',
+     'jsonrpcCount',
+     'jsonrpcCountEvent',
+     'jsonrpcVoltage',
+     'jsonrpcCurrent',
+     'jsonrpcWeight',
+     'jsonrpcColor',
+     'jsonrpcVibration',
+     'jsonrpcSpeed',
+     'jsonrpcAccelerometer',
+     'jsonrpcPressure',
+     'jsonrpcRotaryAngle',
+     'jsonrpcPercent',
+     'jsonrpcStepCount',
+     'jsonrpcSleepStage',
+     'jsonrpcBatteryGauge',
+     'jsonrpcTag',
+     'jsonrpcReader' ],
+  jsonrpcActuator: 
+   [ 'jsonrpcLed',
+     'jsonrpcDo',
+     'jsonrpcTempCtrl',
+     'jsonrpcElectricFan',
+     'jsonrpcAirConditioner',
+     'jsonrpcTelevision',
+     'jsonrpcRGBLed',
+     'jsonrpc7colorRGBLed',
+     'jsonrpcBuzzer',
+     'jsonrpcLcd' ] }
+[32m[2016-02-26 13:32:46.219] [INFO] Sensors - [39m.... Loading SensorJS Plugin Packages is done.
+
+[2016-02-26 13:32:46.955] [INFO] Main - <<<<<<<< Starting Gateway [edison] >>>>>>>>
+[2016-02-26 13:32:47.116] [WARN] Main - MODULES_NOT_SUPPORTED - memwatch
+[2016-02-26 13:32:47.288] [WARN] Main - MODULES_NOT_SUPPORTED - rgbLed
+[2016-02-26 13:32:47.296] [INFO] Main - 1. Get the Gateway ID
+[2016-02-26 13:32:47.335] [INFO] Main - [UDP Socket] discovery BOUND port=[28282]
+[2016-02-26 13:32:47.383] [INFO] Main - 1.1 Gateway ID from mac =  02008603c8a5
+[2016-02-26 13:32:47.385] [INFO] Main - 2. Store init for saving and loading sensor values to preserve the data which are not uploaded yet
+[2016-02-26 13:32:47.511] [INFO] Store - Memory 78.40873952315079%[789352448/1006714880] limit: 0%
+[2016-02-26 13:32:47.534] [INFO] Main - 3. MQTT init - establish mqtt connection (with TLS options if mqtts)
+[2016-02-26 13:32:47.535] [INFO] Main - 3.1 MQTT Server Config -  mqtts mqtt.sp1.sktiot.com 8883
+[2016-02-26 13:32:47.536] [INFO] Main - 3.2 MQTTs Connection with TLS options { caPath: '/opt/tp/thingplus-gateway/device/ssl/ca-cert.pem',
+  rejectUnauthorized: true }
+[2016-02-26 13:32:47.538] [INFO] Main - 3.3 MQTTs Authentication with cert { caPath: '/opt/tp/thingplus-gateway/device/ssl/ca-cert.pem',
+  rejectUnauthorized: true,
+  pfxPath: '/opt/tp/config/cert.p12',
+  passphrase: '02008603c8a5' }
+[2016-02-26 13:32:47.544] [INFO] MQTT - [mqtt-init] MQTT connection options { clientId: '02008603c8a5',
+  keepalive: 120,
+  clean: true,
+  autopuback: false,
+  logger: 
+   { category: 'MQTT',
+     _events: { log: [Function] },
+     level: { level: 20000, levelStr: 'INFO' } },
+  will: 
+   { topic: 'v/a/g/02008603c8a5/mqtt/status',
+     payload: 'err',
+     retain: true } }
+[2016-02-26 13:32:47.700] [ERROR] Main - 3.4 MQTT Connection error with Certificate (APIKEY is missing or Gateway pfx/p12 file is missing)
+ Error: ENOENT, no such file or directory '/opt/tp/config/cert.p12'
+    at Object.fs.openSync (fs.js:449:18)
+    at Object.fs.readFileSync (fs.js:286:15)
+    at Object.module.exports.createSecureClient (/opt/tp/thingplus-gateway/device/node_modules/mqtt/lib/mqtt.js.jx:88:39)
+    at g (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:17272)
+    at new u (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:18368)
+    at Object.a.exports.init (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:13830)
+    at e.series.b.password (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:4917)
+    at /opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:609:21
+    at /opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:248:17
+    at iterate (/opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:148:13)
+[2016-02-26 13:32:47.701] [INFO] Main - 4. Server init
+[2016-02-26 13:32:47.705] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:32:47.709] [WARN] Server - [Server/init] time: NOT IN SYNC
+[2016-02-26 13:32:48.013] [INFO] Store - [Store/checkResourceLimit] Filesystem 414740480/1508704256 > 10%
+[2016-02-26 13:32:48.191] [INFO] Server - [mqtt] - DISCONNECTED
+[2016-02-26 13:32:48.192] [INFO] Server - [service] - DISCONNECTED
+[2016-02-26 13:32:48.193] [WARN] Server - [Server/init/statusUpdate] Error with Server.statusUpdate
+ [Error: Server is not connected]
+Error: Server is not connected
+    at Error (<anonymous>)
+    at /opt/tp/thingplus-gateway/device/app.min.js.jx:9:20507
+    at forOwn (/opt/tp/thingplus-gateway/device/node_modules/lodash/dist/lodash.js.jx:2104:15)
+    at Function.forEach (/opt/tp/thingplus-gateway/device/node_modules/lodash/dist/lodash.js.jx:3301:9)
+    at /opt/tp/thingplus-gateway/device/app.min.js.jx:9:20345
+    at /opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:156:25
+    at /opt/tp/thingplus-gateway/device/app.min.js.jx:9:20301
+    at Request._callback (/opt/tp/thingplus-gateway/device/app.min.js.jx:9:17988)
+    at self.callback (/opt/tp/thingplus-gateway/device/node_modules/request/index.js.jx:131:22)
+    at Request.emit (events.js:82:17)
+[2016-02-26 13:32:48.200] [INFO] Main - 4.1 Server init is done 
+[2016-02-26 13:32:48.201] [INFO] Main - 5. Gateway init
+[2016-02-26 13:32:48.236] [INFO] Gateway - [Gateway.init] board= { macaddress: '02008603c8a5' }
+[2016-02-26 13:32:48.393] [ERROR] Gateway - [Gateway/init] Error with getting the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:32:48.395] [INFO] Main - 5.1 Gateway init is done 
+[2016-02-26 13:32:48.396] [INFO] Main - 6. Sensor init
+[2016-02-26 13:32:48.399] [WARN] Sensors - ... Start gathering data - REPORT_INTERVAL(60000) ...
+[2016-02-26 13:32:48.400] [INFO] Main - 6.1 Sensor init is done 
+[2016-02-26 13:32:48.401] [WARN] Main - <<<<<<<< Init done: NO UI mode >>>>>>>>
+[2016-02-26 13:32:48.567] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:32:48.570] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[1] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:32:49.700] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:32:49.701] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[2] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:32:51.806] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:32:51.808] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[3] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:32:55.921] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:32:55.923] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[4] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:33:04.029] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:33:04.030] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[5] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:35:25.299] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:35:25.300] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[6] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:35:52.868] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[32m[2016-02-26 13:37:50.472] [INFO] Sensors - [39mStart to load SensorJS Plugin Packages .... [ 'sensorjs-jsonrpc' ]
+[32m[2016-02-26 13:37:50.670] [INFO] Sensor - [39m[sensor/index.js] updated DRIVER_CFG[jsonrpcSensor] [ 'jsonrpcNumber',
+  'jsonrpcString',
+  'jsonrpcTemp',
+  'jsonrpcHumi',
+  'jsonrpcLight',
+  'jsonrpcNoise',
+  'jsonrpcDi',
+  'jsonrpcMotion',
+  'jsonrpcDoor',
+  'jsonrpcCo2',
+  'jsonrpcCo',
+  'jsonrpcVoc',
+  'jsonrpcPower',
+  'jsonrpcDust',
+  'jsonrpcCount',
+  'jsonrpcCountEvent',
+  'jsonrpcVoltage',
+  'jsonrpcCurrent',
+  'jsonrpcWeight',
+  'jsonrpcColor',
+  'jsonrpcVibration',
+  'jsonrpcSpeed',
+  'jsonrpcAccelerometer',
+  'jsonrpcPressure',
+  'jsonrpcRotaryAngle',
+  'jsonrpcPercent',
+  'jsonrpcStepCount',
+  'jsonrpcSleepStage',
+  'jsonrpcBatteryGauge',
+  'jsonrpcTag',
+  'jsonrpcReader' ]
+[32m[2016-02-26 13:37:50.678] [INFO] Sensor - [39m[sensor/index.js] updated DRIVER_CFG[jsonrpcActuator] [ 'jsonrpcLed',
+  'jsonrpcDo',
+  'jsonrpcTempCtrl',
+  'jsonrpcElectricFan',
+  'jsonrpcAirConditioner',
+  'jsonrpcTelevision',
+  'jsonrpcRGBLed',
+  'jsonrpc7colorRGBLed',
+  'jsonrpcBuzzer',
+  'jsonrpcLcd' ]
+[36m[2016-02-26 13:37:50.681] [DEBUG] Sensor - [39m[sensor/index.js] updated DRIVER_CFG { dht: [ 'dht11', 'dht22' ],
+  digitalLight: [ 'TSL2561', 'BH1750' ],
+  digitalCO2: [ 'X100' ],
+  digitalHumidity: [ 'HTU21D' ],
+  magneticSwitch: [ 'normallyClose', 'normallyOpen' ],
+  motionDetector: [ 'passiveInfrared' ],
+  jsonrpcSensor: 
+   [ 'jsonrpcNumber',
+     'jsonrpcString',
+     'jsonrpcTemp',
+     'jsonrpcHumi',
+     'jsonrpcLight',
+     'jsonrpcNoise',
+     'jsonrpcDi',
+     'jsonrpcMotion',
+     'jsonrpcDoor',
+     'jsonrpcCo2',
+     'jsonrpcCo',
+     'jsonrpcVoc',
+     'jsonrpcPower',
+     'jsonrpcDust',
+     'jsonrpcCount',
+     'jsonrpcCountEvent',
+     'jsonrpcVoltage',
+     'jsonrpcCurrent',
+     'jsonrpcWeight',
+     'jsonrpcColor',
+     'jsonrpcVibration',
+     'jsonrpcSpeed',
+     'jsonrpcAccelerometer',
+     'jsonrpcPressure',
+     'jsonrpcRotaryAngle',
+     'jsonrpcPercent',
+     'jsonrpcStepCount',
+     'jsonrpcSleepStage',
+     'jsonrpcBatteryGauge',
+     'jsonrpcTag',
+     'jsonrpcReader' ],
+  jsonrpcActuator: 
+   [ 'jsonrpcLed',
+     'jsonrpcDo',
+     'jsonrpcTempCtrl',
+     'jsonrpcElectricFan',
+     'jsonrpcAirConditioner',
+     'jsonrpcTelevision',
+     'jsonrpcRGBLed',
+     'jsonrpc7colorRGBLed',
+     'jsonrpcBuzzer',
+     'jsonrpcLcd' ] }
+[32m[2016-02-26 13:37:50.695] [INFO] Sensors - [39mLoaded SensorJS Plugin Packages { dht: [ 'dht11', 'dht22' ],
+  digitalLight: [ 'TSL2561', 'BH1750' ],
+  digitalCO2: [ 'X100' ],
+  digitalHumidity: [ 'HTU21D' ],
+  magneticSwitch: [ 'normallyClose', 'normallyOpen' ],
+  motionDetector: [ 'passiveInfrared' ],
+  jsonrpcSensor: 
+   [ 'jsonrpcNumber',
+     'jsonrpcString',
+     'jsonrpcTemp',
+     'jsonrpcHumi',
+     'jsonrpcLight',
+     'jsonrpcNoise',
+     'jsonrpcDi',
+     'jsonrpcMotion',
+     'jsonrpcDoor',
+     'jsonrpcCo2',
+     'jsonrpcCo',
+     'jsonrpcVoc',
+     'jsonrpcPower',
+     'jsonrpcDust',
+     'jsonrpcCount',
+     'jsonrpcCountEvent',
+     'jsonrpcVoltage',
+     'jsonrpcCurrent',
+     'jsonrpcWeight',
+     'jsonrpcColor',
+     'jsonrpcVibration',
+     'jsonrpcSpeed',
+     'jsonrpcAccelerometer',
+     'jsonrpcPressure',
+     'jsonrpcRotaryAngle',
+     'jsonrpcPercent',
+     'jsonrpcStepCount',
+     'jsonrpcSleepStage',
+     'jsonrpcBatteryGauge',
+     'jsonrpcTag',
+     'jsonrpcReader' ],
+  jsonrpcActuator: 
+   [ 'jsonrpcLed',
+     'jsonrpcDo',
+     'jsonrpcTempCtrl',
+     'jsonrpcElectricFan',
+     'jsonrpcAirConditioner',
+     'jsonrpcTelevision',
+     'jsonrpcRGBLed',
+     'jsonrpc7colorRGBLed',
+     'jsonrpcBuzzer',
+     'jsonrpcLcd' ] }
+[32m[2016-02-26 13:37:50.711] [INFO] Sensors - [39m.... Loading SensorJS Plugin Packages is done.
+
+[2016-02-26 13:37:51.420] [INFO] Main - <<<<<<<< Starting Gateway [edison] >>>>>>>>
+[2016-02-26 13:37:51.565] [WARN] Main - MODULES_NOT_SUPPORTED - memwatch
+[2016-02-26 13:37:51.721] [WARN] Main - MODULES_NOT_SUPPORTED - rgbLed
+[2016-02-26 13:37:51.729] [INFO] Main - 1. Get the Gateway ID
+[2016-02-26 13:37:51.772] [INFO] Main - [UDP Socket] discovery BOUND port=[28282]
+[2016-02-26 13:37:51.822] [INFO] Main - 1.1 Gateway ID from mac =  02008603c8a5
+[2016-02-26 13:37:51.824] [INFO] Main - 2. Store init for saving and loading sensor values to preserve the data which are not uploaded yet
+[2016-02-26 13:37:51.959] [INFO] Store - Memory 79.36650663194726%[798994432/1006714880] limit: 0%
+[2016-02-26 13:37:51.974] [INFO] Main - 3. MQTT init - establish mqtt connection (with TLS options if mqtts)
+[2016-02-26 13:37:51.975] [INFO] Main - 3.1 MQTT Server Config -  mqtts mqtt.sp1.sktiot.com 8883
+[2016-02-26 13:37:51.976] [INFO] Main - 3.2 MQTTs Connection with TLS options { caPath: '/opt/tp/thingplus-gateway/device/ssl/ca-cert.pem',
+  rejectUnauthorized: true }
+[2016-02-26 13:37:51.978] [INFO] Main - 3.3 MQTTs Authentication with cert { caPath: '/opt/tp/thingplus-gateway/device/ssl/ca-cert.pem',
+  rejectUnauthorized: true,
+  pfxPath: '/opt/tp/config/cert.p12',
+  passphrase: '02008603c8a5' }
+[2016-02-26 13:37:51.985] [INFO] MQTT - [mqtt-init] MQTT connection options { clientId: '02008603c8a5',
+  keepalive: 120,
+  clean: true,
+  autopuback: false,
+  logger: 
+   { category: 'MQTT',
+     _events: { log: [Function] },
+     level: { level: 20000, levelStr: 'INFO' } },
+  will: 
+   { topic: 'v/a/g/02008603c8a5/mqtt/status',
+     payload: 'err',
+     retain: true } }
+[2016-02-26 13:37:52.140] [ERROR] Main - 3.4 MQTT Connection error with Certificate (APIKEY is missing or Gateway pfx/p12 file is missing)
+ Error: ENOENT, no such file or directory '/opt/tp/config/cert.p12'
+    at Object.fs.openSync (fs.js:449:18)
+    at Object.fs.readFileSync (fs.js:286:15)
+    at Object.module.exports.createSecureClient (/opt/tp/thingplus-gateway/device/node_modules/mqtt/lib/mqtt.js.jx:88:39)
+    at g (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:17272)
+    at new u (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:18368)
+    at Object.a.exports.init (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:13830)
+    at e.series.b.password (/opt/tp/thingplus-gateway/device/app.min.js.jx:8:4917)
+    at /opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:609:21
+    at /opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:248:17
+    at iterate (/opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:148:13)
+[2016-02-26 13:37:52.141] [INFO] Main - 4. Server init
+[2016-02-26 13:37:52.145] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:37:52.149] [WARN] Server - [Server/init] time: NOT IN SYNC
+[2016-02-26 13:37:52.455] [INFO] Store - [Store/checkResourceLimit] Filesystem 389545984/1508704256 > 10%
+[2016-02-26 13:37:52.627] [INFO] Server - [mqtt] - DISCONNECTED
+[2016-02-26 13:37:52.629] [INFO] Server - [service] - DISCONNECTED
+[2016-02-26 13:37:52.630] [WARN] Server - [Server/init/statusUpdate] Error with Server.statusUpdate
+ [Error: Server is not connected]
+Error: Server is not connected
+    at Error (<anonymous>)
+    at /opt/tp/thingplus-gateway/device/app.min.js.jx:9:20507
+    at forOwn (/opt/tp/thingplus-gateway/device/node_modules/lodash/dist/lodash.js.jx:2104:15)
+    at Function.forEach (/opt/tp/thingplus-gateway/device/node_modules/lodash/dist/lodash.js.jx:3301:9)
+    at /opt/tp/thingplus-gateway/device/app.min.js.jx:9:20345
+    at /opt/tp/thingplus-gateway/device/node_modules/async/lib/async.js.jx:156:25
+    at /opt/tp/thingplus-gateway/device/app.min.js.jx:9:20301
+    at Request._callback (/opt/tp/thingplus-gateway/device/app.min.js.jx:9:17988)
+    at self.callback (/opt/tp/thingplus-gateway/device/node_modules/request/index.js.jx:131:22)
+    at Request.emit (events.js:82:17)
+[2016-02-26 13:37:52.638] [INFO] Main - 4.1 Server init is done 
+[2016-02-26 13:37:52.639] [INFO] Main - 5. Gateway init
+[2016-02-26 13:37:52.684] [INFO] Gateway - [Gateway.init] board= { macaddress: '02008603c8a5' }
+[2016-02-26 13:37:52.866] [ERROR] Gateway - [Gateway/init] Error with getting the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:37:52.868] [INFO] Main - 5.1 Gateway init is done 
+[2016-02-26 13:37:52.869] [INFO] Main - 6. Sensor init
+[2016-02-26 13:37:52.872] [WARN] Sensors - ... Start gathering data - REPORT_INTERVAL(60000) ...
+[2016-02-26 13:37:52.873] [INFO] Main - 6.1 Sensor init is done 
+[2016-02-26 13:37:52.874] [WARN] Main - <<<<<<<< Init done: NO UI mode >>>>>>>>
+[2016-02-26 13:37:53.002] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:37:53.005] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[1] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:37:54.174] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:37:54.176] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[2] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:37:56.338] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:37:56.340] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[3] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:38:00.492] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:38:00.493] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[4] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:38:08.839] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:38:08.841] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[5] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:38:24.539] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:38:24.541] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[6] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:38:51.662] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:38:56.697] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:38:56.698] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[7] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:39:02.390] [INFO] Sensors - [02008603c8a5] status { status: 'err', duration: -1, sensors: [] }
+[2016-02-26 13:39:02.395] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:39:07.395] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:39:51.664] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:40:00.849] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:40:00.851] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[8] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:40:02.397] [INFO] Sensors - [02008603c8a5] status { status: 'err', duration: -1, sensors: [] }
+[2016-02-26 13:40:02.399] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:40:07.401] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:40:51.667] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:41:02.407] [INFO] Sensors - [02008603c8a5] status { status: 'err', duration: -1, sensors: [] }
+[2016-02-26 13:41:02.408] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:41:07.408] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:41:51.668] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:42:02.417] [INFO] Sensors - [02008603c8a5] status { status: 'err', duration: -1, sensors: [] }
+[2016-02-26 13:42:02.420] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:42:07.409] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:42:08.975] [ERROR] Gateway - [Gateway/sync] Error with syncing the gateway (02008603c8a5) info from Server 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:42:08.977] [ERROR] Gateway - [Gateway/init] Error with retrying to sync the gateway (02008603c8a5) info from Server, tries:[9] 
+ { [Error: socket hang up] code: 'ECONNRESET', sslError: undefined }
+Error: socket hang up
+    at SecurePair.error (tls.js:941:23)
+    at EncryptedStream.CryptoStream._done (tls.js:651:22)
+    at CleartextStream.read [as _read] (tls.js:461:24)
+    at CleartextStream.Readable.read (_stream_readable.js:308:10)
+    at EncryptedStream.onCryptoStreamFinish (tls.js:273:47)
+    at EncryptedStream.g (events.js:160:16)
+    at EncryptedStream.emit (events.js:98:20)
+    at finishMaybe (_stream_writable.js:332:12)
+    at endWritable (_stream_writable.js:339:3)
+    at EncryptedStream.Writable.end (_stream_writable.js:318:41)
+[2016-02-26 13:42:51.235] [INFO] Main - [init check] initialized OK
+[2016-02-26 13:42:51.670] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:43:02.429] [INFO] Sensors - [02008603c8a5] status { status: 'err', duration: -1, sensors: [] }
+[2016-02-26 13:43:02.430] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:43:07.422] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:43:51.672] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:44:02.442] [INFO] Sensors - [02008603c8a5] status { status: 'err', duration: -1, sensors: [] }
+[2016-02-26 13:44:02.444] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:44:07.423] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.
+[2016-02-26 13:44:51.674] [INFO] Server - [Server/init] last synced time from CONFIG Sun Nov 01 2015 00:00:00 GMT+0000 (UTC)
+[2016-02-26 13:45:02.448] [INFO] Sensors - [02008603c8a5] status { status: 'err', duration: -1, sensors: [] }
+[2016-02-26 13:45:02.450] [WARN] Sensors - Gateway status: NOT SENT due to unavailable mqtt
+[2016-02-26 13:45:07.429] [INFO] Sensors - [discovery] Check whether new devices and sensors are found.

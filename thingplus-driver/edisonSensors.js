@@ -119,7 +119,7 @@ function EdisonSensors() {
           } else if (sname === 'rotary') {
             var voltage = data * ADC / 1023;
             sensors[sname].value = Math.round(voltage * ROTARY_ANGLE_FULL_ANGLE / GROVE_VCC);
-          } else if (sname === 'sound') {
+          } else{
             sensors[sname].value = data;
           	}
           sensors[sname].time = _.now();
